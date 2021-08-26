@@ -20,6 +20,6 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on finding a job I guess ??
 - 🌱 I’m currently learning how to break Python scripts even more
 - 👯 I’m looking to collaborate on anything fun or based
-- 🤔 I’m looking for help with BREAKING MORE PYTHON SCRIPT
-- 💬 Ask me about any Python script I totally broke in the past
+- 🤔 I’m looking for help with BREAKING MORE PYTHON SCRIPTS
+- 💬 Ask me about any Python scripts I totally broke in the past
 - 📫 How to reach me: ./turbomachine#8238
