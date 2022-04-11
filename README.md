@@ -15,6 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Antoine, just graduated in computer science and management in Belgium.
-
 📫 How to reach me: ./turbomachine#8238
